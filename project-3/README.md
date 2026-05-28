@@ -228,7 +228,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 ### Priya Shihora
 
-[![GitHub](https://img.shields.io/badge/GitHub-isamaliya16-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shihora)
+[![GitHub](https://img.shields.io/badge/GitHub-shihora-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamaliya16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Shihora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-isamaliya-686533312/)
 
 **Junior Python Developer · India**
