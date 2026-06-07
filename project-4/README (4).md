@@ -240,9 +240,6 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 ### Priya Shihora
 
-[![GitHub](https://img.shields.io/badge/GitHub-isamaliya16-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isamaliya16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Isamaliya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-isamaliya-686533312/)
-
 **Junior Python Developer · India**
 
 > *"Understanding functions deeply is the foundation of writing clean, reusable code."*
