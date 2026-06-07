@@ -37,7 +37,7 @@ You can **input** a 1D array, **summarize** it, **calculate factorial** recursiv
 
 ```
 📦 python_project/
-└── 📁 project-2/
+└── 📁 project-4/
     ├── 🐍 pro-4.py       ← The entire app lives here
     ├── 🖼️ output-1.png        ← Input, Summary & Factorial demo
     ├── 🖼️ output-2.png        ← Filter, Sort & Statistics demo
@@ -208,7 +208,7 @@ Calls `statistics()` which **returns four values at once** — min, max, sum, av
 python --version
 
 # Navigate to the project folder
-cd python_project/project-2
+cd python_project/project-4
 
 # Run the app
 python pro-4.py
