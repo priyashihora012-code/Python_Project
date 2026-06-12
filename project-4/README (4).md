@@ -38,10 +38,11 @@ You can **input** a 1D array, **summarize** it, **calculate factorial** recursiv
 ```
 📦 python_project/
 └── 📁 project-4/
-    ├── 🐍 pro-4.py       ← The entire app lives here
+    ├── 🐍 pro-4.py            ← The entire app lives here
     ├── 🖼️ output-1.png        ← Input, Summary & Factorial demo
     ├── 🖼️ output-2.png        ← Filter, Sort & Statistics demo
-    └── 📄 README.md           ← You are here
+    └── 📄 README(4).md        ← You are here
+
 ```
 
 ---
@@ -211,7 +212,9 @@ python --version
 cd python_project/project-4
 
 # Run the app
+
 python pro-4.py
+
 ```
 
 ---
