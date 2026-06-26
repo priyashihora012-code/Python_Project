@@ -303,25 +303,25 @@ print(dir(m))
 ## 🖼️ Output Screenshots
 
 **1️⃣ Main Menu & Datetime Operations**
-![Main Menu and Datetime Operations](./screenshots/screenshot-01-main-menu-datetime.png)
+![Main Menu and Datetime Operations](output-1.png)
 
 **2️⃣ Date Difference, Date Formatting & Math Menu**
-![Date Difference and Math Menu](./screenshots/screenshot-02-date-diff-math-menu.png)
+![Date Difference and Math Menu](output-2.png)
 
 **3️⃣ Trigonometric Calculations**
-![Trigonometric Values](./screenshots/screenshot-03-trig-values.png)
+![Trigonometric Values](output-3.png)
 
 **4️⃣ Invalid Choice Handling**
-![Invalid Choice Handling](./screenshots/screenshot-04-invalid-choice.png)
+![Invalid Choice Handling](output-4.png)
 
 **5️⃣ Random Data Generation**
-![Random Data Generation](./screenshots/screenshot-05-random-data.png)
+![Random Data Generation](output-5.png)
 
 **6️⃣ UUID Generation & File Operations**
-![UUID and File Operations](./screenshots/screenshot-06-uuid-file-ops.png)
+![UUID and File Operations](output-6.png)
 
 **7️⃣ File Read/Write/Append Operations**
-![File Read Write Append](./screenshots/screenshot-07-explore-module-exit.png)
+![File Read Write Append](output-7.png)
 
 ---
 
