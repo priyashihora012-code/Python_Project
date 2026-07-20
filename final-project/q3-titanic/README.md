@@ -194,7 +194,7 @@ sns.countplot(data=df, x="Pclass", hue="Survived")
 ## 📈 Results & Insights
 
 - 🧹 The dataset contained missing values, duplicate records, and inconsistent data, which were cleaned before analysis
-- 👩 Female passengers had a **higher survival rate** than male passengers
+- 👩 Female passengers had a **higher survival rate** than male passengers 
 - 🎟️ Passenger class influenced survival, with **higher-class passengers** generally showing better survival
 - 👶 Most passengers belonged to a limited age range, as shown in the age distribution
 - 💰 The Fare column contained several high-value outliers
